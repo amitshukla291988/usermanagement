@@ -1,0 +1,169 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Amit Shukla\\source\\repos\\UserManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{168A167A-6CEB-4792-8F9B-43F43BA059A5}|UserManagement.csproj|c:\\users\\amit shukla\\source\\repos\\usermanagement\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{168A167A-6CEB-4792-8F9B-43F43BA059A5}|UserManagement.csproj|solutionrelative:controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{168A167A-6CEB-4792-8F9B-43F43BA059A5}|UserManagement.csproj|c:\\users\\amit shukla\\source\\repos\\usermanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{168A167A-6CEB-4792-8F9B-43F43BA059A5}|UserManagement.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Amit Shukla\\AppData\\Local\\Temp\\.vsdbgsrc\\55a3cd7ee205b4bdf71e18df2ffc6157e4da694fc9564b014d46a29d25103171\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{592E5CD4-6E48-449C-A20A-9D76079FDB52}|..\\User.Management.Service\\User.Management.Service.csproj|c:\\users\\amit shukla\\source\\repos\\user.management.service\\services\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{592E5CD4-6E48-449C-A20A-9D76079FDB52}|..\\User.Management.Service\\User.Management.Service.csproj|c:\\users\\amit shukla\\source\\repos\\user.management.service\\models\\emailconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{592E5CD4-6E48-449C-A20A-9D76079FDB52}|..\\User.Management.Service\\User.Management.Service.csproj|c:\\users\\amit shukla\\source\\repos\\user.management.service\\models\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{592E5CD4-6E48-449C-A20A-9D76079FDB52}|..\\User.Management.Service\\User.Management.Service.csproj|c:\\users\\amit shukla\\source\\repos\\user.management.service\\services\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{168A167A-6CEB-4792-8F9B-43F43BA059A5}|UserManagement.csproj|c:\\users\\amit shukla\\source\\repos\\usermanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{168A167A-6CEB-4792-8F9B-43F43BA059A5}|UserManagement.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{592E5CD4-6E48-449C-A20A-9D76079FDB52}|..\\User.Management.Service\\User.Management.Service.csproj|c:\\users\\amit shukla\\source\\repos\\user.management.service\\user.management.service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Amit Shukla\\AppData\\Local\\Temp\\.vsdbgsrc\\55a3cd7ee205b4bdf71e18df2ffc6157e4da694fc9564b014d46a29d25103171\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\55a3cd7ee205b4bdf71e18df2ffc6157e4da694fc9564b014d46a29d25103171\\Program.cs",
+              "ToolTip": "C:\\Users\\Amit Shukla\\AppData\\Local\\Temp\\.vsdbgsrc\\55a3cd7ee205b4bdf71e18df2ffc6157e4da694fc9564b014d46a29d25103171\\Program.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\55a3cd7ee205b4bdf71e18df2ffc6157e4da694fc9564b014d46a29d25103171\\Program.cs [Read Only]",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAAAgAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T08:56:57.016Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Amit Shukla\\source\\repos\\UserManagement\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Amit Shukla\\source\\repos\\UserManagement\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAgwCIAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T07:32:03.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IEmailService.cs",
+              "DocumentMoniker": "C:\\Users\\Amit Shukla\\source\\repos\\User.Management.Service\\Services\\IEmailService.cs",
+              "RelativeDocumentMoniker": "..\\User.Management.Service\\Services\\IEmailService.cs",
+              "ToolTip": "C:\\Users\\Amit Shukla\\source\\repos\\User.Management.Service\\Services\\IEmailService.cs",
+              "RelativeToolTip": "..\\User.Management.Service\\Services\\IEmailService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T07:06:57.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Amit Shukla\\source\\repos\\UserManagement\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Amit Shukla\\source\\repos\\UserManagement\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAAAsAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-17T06:40:48.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthenticationController.cs",
+              "DocumentMoniker": "C:\\Users\\Amit Shukla\\source\\repos\\UserManagement\\Controllers\\AuthenticationController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthenticationController.cs",
+              "ToolTip": "C:\\Users\\Amit Shukla\\source\\repos\\UserManagement\\Controllers\\AuthenticationController.cs",
+              "RelativeToolTip": "Controllers\\AuthenticationController.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAcwEUAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T05:31:30.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "C:\\Users\\Amit Shukla\\source\\repos\\User.Management.Service\\Services\\EmailService.cs",
+              "RelativeDocumentMoniker": "..\\User.Management.Service\\Services\\EmailService.cs",
+              "ToolTip": "C:\\Users\\Amit Shukla\\source\\repos\\User.Management.Service\\Services\\EmailService.cs",
+              "RelativeToolTip": "..\\User.Management.Service\\Services\\EmailService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T07:08:27.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Message.cs",
+              "DocumentMoniker": "C:\\Users\\Amit Shukla\\source\\repos\\User.Management.Service\\Models\\Message.cs",
+              "RelativeDocumentMoniker": "..\\User.Management.Service\\Models\\Message.cs",
+              "ToolTip": "C:\\Users\\Amit Shukla\\source\\repos\\User.Management.Service\\Models\\Message.cs",
+              "RelativeToolTip": "..\\User.Management.Service\\Models\\Message.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T06:52:37.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmailConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Amit Shukla\\source\\repos\\User.Management.Service\\Models\\EmailConfiguration.cs",
+              "RelativeDocumentMoniker": "..\\User.Management.Service\\Models\\EmailConfiguration.cs",
+              "ToolTip": "C:\\Users\\Amit Shukla\\source\\repos\\User.Management.Service\\Models\\EmailConfiguration.cs",
+              "RelativeToolTip": "..\\User.Management.Service\\Models\\EmailConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T06:49:47.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "User.Management.Service.csproj",
+              "DocumentMoniker": "C:\\Users\\Amit Shukla\\source\\repos\\User.Management.Service\\User.Management.Service.csproj",
+              "RelativeDocumentMoniker": "..\\User.Management.Service\\User.Management.Service.csproj",
+              "ToolTip": "C:\\Users\\Amit Shukla\\source\\repos\\User.Management.Service\\User.Management.Service.csproj",
+              "RelativeToolTip": "..\\User.Management.Service\\User.Management.Service.csproj",
+              "ViewState": "AQIAAAwAAABAgd6pazkYwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-17T06:47:06.294Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
